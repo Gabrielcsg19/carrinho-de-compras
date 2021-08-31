@@ -1,6 +1,6 @@
 <h1 align="center">rocketshoes</h1><br>
 
-![Screenshot 2021-08-17 at 13-45-49 RocketShoes](https://user-images.githubusercontent.com/54643425/129767001-b0a73205-0829-452f-ac99-205be0f695b1.png)
+![Screenshot 2021-08-17 at 13-45-49 RocketShoes](https://raw.githubusercontent.com/Gabrielcsg19/rocketshoes/master/assets/cover-img.png)
 
 ---
 SPA de listagem de produtos com funcionalidade de carrinho de compras desenvolvido com __React.js__ e dados providos pelo __json-server.js__.
